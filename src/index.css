@@ -1,0 +1,24 @@
+img.logo-header {
+  max-width: 200px;
+  height: auto;
+}
+body{
+  background-color: #212428;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.header-link{
+  color: #c4cfde;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+nav.Header-main {
+  padding: 24px 0;
+} 
